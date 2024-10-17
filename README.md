@@ -1,4 +1,4 @@
-Challenge One Backend Java - Conversor de Moedas
+# **Challenge One Backend Java - Conversor de Moedas**
 
 Esse é um programa Conversor de Moedas desenvolvido em Java que faz a conversão entre algumas moedas definidas em uma lista e, utilizando uma API de taxas de câmbio, realiza a conversão de acordo com o valor do dia.
 Funcionalidades
@@ -54,6 +54,7 @@ xml
     </dependency>
 </dependencies>
 ------------------------------------------------------------------------------------------------
+
 Se estiver usando manualmente:
 
     Baixe o arquivo gson-2.11.jar do site oficial do Gson.
